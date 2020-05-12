@@ -1,0 +1,6 @@
+/*======Комментарии Фёдора======*/
+a:hover {
+  color: #0f0;
+  text-decoration: underline;}
+
+a:active {color: #f00;}
