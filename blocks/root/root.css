@@ -1,0 +1,8 @@
+/*======Комментарии Фёдора======*/
+.link {transition: opacity 0.6s linear 0s;}
+
+.link:hover {
+  text-decoration: underline;
+  opacity: 0.5;}
+
+.link:active {color: #f00;}

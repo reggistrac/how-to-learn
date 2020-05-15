@@ -1,5 +1,6 @@
-.oakley {
+.description {
   display: flex;
   position: relative;
   justify-content: center;
+margin-bottom: 0px;
 }
