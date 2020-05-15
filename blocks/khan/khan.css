@@ -19,9 +19,6 @@
 .khan {
   display: flex;
   flex-direction: column;
-  margin-left: auto;
-  margin-right: auto;
   padding-top: 105px;
-  width: 80%;
   background-color: #f2f2f2;
 }

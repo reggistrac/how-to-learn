@@ -1,0 +1,13 @@
+/*======Комментарии Фёдора======*/
+/*	Что-то я не понял.
+Вроде смысл БЭМа написать свойсво один раз и потом
+приписывать через класс везде, где надо,
+как rotation или theme_dark .*/
+
+.link {transition: opacity 0.6s linear 0s;}
+
+.link:hover {
+  text-decoration: underline;
+  opacity: 0.5;}
+
+.link:active {color: #f00;}

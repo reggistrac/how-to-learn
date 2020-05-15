@@ -6,4 +6,11 @@
   line-height: 51px;
   text-decoration: none;
   color: black;
+  transition: opacity 0.6s linear 0s;
 }
+
+.feinman__link:hover {
+  text-decoration: underline;
+  opacity: 0.5;}
+
+.feinman__link:active {color: #f00;}

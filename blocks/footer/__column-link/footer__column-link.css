@@ -3,4 +3,11 @@
   line-height: 30px;
   text-decoration: none;
   color: white;
+  transition: opacity 0.6s linear 0s;
 }
+
+.footer__column-link:hover {
+  text-decoration: underline;
+  opacity: 0.5;}
+
+.footer__column-link:active {color: #f00;}
